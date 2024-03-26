@@ -174,7 +174,7 @@ body {
   min-height: 120dvh;
   display: flex;
   align-items: center;
-  background-image: url("serti.jpg");
+  background-image: url("logo 2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -475,6 +475,8 @@ footer {
   text-align: center;
   padding: 1rem 0 3rem;
   margin-top: 3rem;
+  position: fixed;
+  bottom: 0;
 }
 
 footer .socials {
