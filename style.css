@@ -1,5 +1,5 @@
 :root {
-  --primary: #c90d00;
+  --primary: #e73802;
   --bg: #010101;
 }
 
@@ -29,7 +29,7 @@ body {
   align-items: center;
   padding: 1.4rem 7%;
   background-color: rgba(1, 1, 1, 0.8);
-  border-bottom: 1px solid #e24f3c;
+  border-bottom: 1px solid #3c5be2;
   position: fixed;
   top: 0;
   left: 0;
@@ -171,10 +171,10 @@ body {
 
 /* Hero section */
 .hero {
-  min-height: 120vh;
+  min-height: 120dvh;
   display: flex;
   align-items: center;
-  background-image: url("logo 2.png");
+  background-image: url("serti.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -475,10 +475,6 @@ footer {
   text-align: center;
   padding: 1rem 0 3rem;
   margin-top: 3rem;
-  width: 100%;
-  position: fixed;
-  bottom: 0;
-  left: 0;
 }
 
 footer .socials {
